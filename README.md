@@ -13,12 +13,12 @@ This Streamlit application is designed to count the number of sheet stacks in a 
 
 ```
 
-* Save the code in a Python file, e.g., final.py.
+* Save the code in a Python file, e.g., app.py.
 
 * Run the Streamlit application    
 
 ```bash
-  streamlit run final.py
+  streamlit run app.py
 
 ```
 
