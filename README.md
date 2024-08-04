@@ -75,10 +75,3 @@ The maximum line gap parameter defines the maximum allowed gap between points on
 ```bash
 max_gap = st.number_input('Maximum Line Gap', min_value=1, max_value=200, value=50)
 ```
-
-![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/3.png)
-![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/4.png)
-## **Use Optimal Parameters**
-![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/5.png)
-![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/6.png)
-![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/7.png)
